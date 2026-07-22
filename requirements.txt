@@ -1,0 +1,4 @@
+mlx-whisper>=0.4
+soundfile>=0.12
+torch>=2.1
+pyannote.audio>=4.0
